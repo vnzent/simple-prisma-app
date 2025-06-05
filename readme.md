@@ -8,7 +8,7 @@ Contoh penggunaan ORM **Prisma** menggunakan **Node.js** dan **SQLite**.
 
 ### 1. Clone dan masuk ke folder proyek:
 ```bash
-git clone https://github.com/username/simple-prisma-app.git
+git clone https://github.com/vnzent/simple-prisma-app.git
 cd simple-prisma-app
 
 ## Install dependensi
